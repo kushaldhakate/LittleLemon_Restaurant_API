@@ -1,0 +1,3 @@
+Superuser username: CREATE THIS WITH `python manage.py createsuperuser`
+Superuser password: Set locally during createsuperuser; do not share production credentials.
+Other test users: Create them through POST /api/auth/users/ or Django admin.

@@ -1,0 +1,5 @@
+Django>=4.2,<5.3
+djangorestframework>=3.14
+djoser>=2.2
+djangorestframework-authtoken>=1.1
+django-filter>=23.5
